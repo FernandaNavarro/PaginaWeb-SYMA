@@ -6,4 +6,4 @@ Click en Download.
 Dentro contiene todos los archivos .html,.php y .css de todo el proyecto.
 
 Asi mismo esta es la página del proyecto en un web host:
-https://versatilsyma.000webhostapp.com/
+https://versatilsyma2.000webhostapp.com/
